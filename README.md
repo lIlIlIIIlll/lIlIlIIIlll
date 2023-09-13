@@ -3,7 +3,7 @@
 _Ou quem quer que esteja lendo isso._
 Eu vim aqui só para notificar algumas coisas que talvez possam ser de interesse para você. Coisas como:
 
-![Skill Tree](https://media.forgecdn.net/avatars/817/461/638195458249768499.png)
+![Skill Tree](http://blob.firecast.com.br/blobs/BQSJQBMA_2859473/65011067b57242bd016ccac6.jpg)
 ## Skill-Tree
 - Python: ![Progresso Python](https://progress-bar.dev/66/ "Progresso Python")
 - Java: ![Progresso Java](https://progress-bar.dev/32/ "Progresso Java")
