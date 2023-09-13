@@ -1,10 +1,10 @@
 ![Hello World](https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif)
-![Skill Tree](http://blob.firecast.com.br/blobs/BQSJQBMA_2859473/65011067b57242bd016ccac6.jpg)
+
 # Olá mundo!!!
 _Ou quem quer que esteja lendo isso._
 Eu vim aqui só para notificar algumas coisas que talvez possam ser de interesse para você. Coisas como:
 
-
+![Imagem](https://media.forgecdn.net/avatars/817/461/638195458249768499.png){ width=200 height=100 }
 ## Skill-Tree
 - Python: ![Progresso Python](https://progress-bar.dev/66/ "Progresso Python")
 - Java: ![Progresso Java](https://progress-bar.dev/32/ "Progresso Java")
