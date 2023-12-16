@@ -4,7 +4,7 @@
 _Ou quem quer que esteja lendo isso._
 Eu vim aqui só para notificar algumas coisas que talvez possam ser de interesse para você. Coisas como:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skill-Tree
 - Python: ![Progresso Python](https://progress-bar.dev/70/ "Progresso Python")
