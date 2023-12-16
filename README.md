@@ -6,7 +6,7 @@ Eu vim aqui só para notificar algumas coisas que talvez possam ser de interesse
 
 | Skill-Tree | Estatísticas     |
 |    :----:   |    :----:   |
-| Python: ![Progresso Python](https://progress-bar.dev/70/ "Progresso Python")Java: ![Progresso Java](https://progress-bar.dev/25/ "Progresso Java") | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) |
+| <ul><li>Python: ![Progresso Python](https://progress-bar.dev/70/ "Progresso Python")</li><li>Java: ![Progresso Java](https://progress-bar.dev/25/ "Progresso Java")</li> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) |
 | >- Java: ![Progresso Java](https://progress-bar.dev/25/ "Progresso Java") |
 | >- HTML: ![Progresso HTML](https://progress-bar.dev/25/ "Progresso HTML") |
 | >- Lua: ![Progresso Lua](https://progress-bar.dev/50/ "Progresso Lua") |
