@@ -44,7 +44,7 @@ Sou um dev full-stack, então me adapto para fazer as coisas funcionarem do jeit
 
 **Contato**
 
-Se você procura um profissional comprometido, versátil e com muita vontade de aprender, entre em contato! Podemos agendar uma conversa para discutir como posso ajudar a transformar suas ideias em realidade.
+Se você procura um profissional comprometido, versátil e com experiência para tornar seus sonhos em realidade digital, entre em contato! Podemos agendar uma conversa para discutir como posso ajudar a transformar suas ideias em realidade.
 
 *   **Email:** aaleonaardo@gmail.com
 *   **WhatsApp:** 71 988366709
