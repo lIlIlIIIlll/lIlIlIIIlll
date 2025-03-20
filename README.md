@@ -6,7 +6,7 @@ Sou um Desenvolvedor de Sistemas apaixonado por criar soluções inovadoras e ef
 
 **Sobre Mim**
 
-Sou um Desenvolvedor Full-Stack com experiência em desenvolvimento web (front-end e back-end), mobile e desktop. Trabalho remotamente há dez meses em uma empresa de desenvolvimento e também atuo como freelancer em plataformas como 99freelas e Workana. Atualmente, estou aprimorando minhas habilidades no curso Técnico de Desenvolvimento de Sistemas do SENAI.
+Sou um Desenvolvedor Full-Stack com experiência em desenvolvimento web (front-end e back-end), mobile e desktop. Trabalhei remotamente por dez meses em uma empresa de desenvolvimento, atualmente apenas atuo como freelancer em plataformas como 99freelas e Workana. Também estou aprimorando minhas habilidades no curso Técnico de Desenvolvimento de Sistemas do SENAI.
 
 Minha paixão é construir soluções que combinem perfeitamente a interface do usuário (front-end) com a lógica e a infraestrutura (back-end). Estou sempre em busca de novos desafios, aprendendo novas tecnologias e metodologias para criar projetos cada vez melhores.
 
