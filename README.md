@@ -41,11 +41,13 @@ Sou um dev full-stack, então me adapto para fazer as coisas funcionarem do jeit
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-_(A seção de habilidades foi organizada para destacar suas principais áreas de atuação, mas também indicar sua versatilidade.)_
 
 **Contato**
 
 Se você procura um profissional comprometido, versátil e com muita vontade de aprender, entre em contato! Podemos agendar uma conversa para discutir como posso ajudar a transformar suas ideias em realidade.
+
+*   **Email:** aaleonaardo@gmail.com
+*   **WhatsApp:** 71 988366709
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
