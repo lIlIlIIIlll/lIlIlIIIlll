@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=220&section=header&text=Leonardo%20Arruda&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C4858&height=220&section=header&text=Leonardo%20Arruda&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Crafting%20Digital%20Experiences&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
 <div align="center">
@@ -15,7 +14,7 @@
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=lIlIlIIIlll&style=for-the-badge&color=1a1b27&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=lIlIlIIIlll&style=for-the-badge&color=3C4858&label=Profile+Views" alt="Profile Views"/>
   </p>
 </div>
 
@@ -126,7 +125,7 @@ Currently serving as **Software Developer at Dortech Systems** while maintaining
 <div align="center">
 
   <!-- 1. DORTECH -->
-  <img src="https://img.shields.io/badge/CURRENT-DORTECH%20SYSTEMS-111111?style=for-the-badge&labelColor=202020&logoColor=white" alt="Dortech Systems"/>
+  <img src="https://img.shields.io/badge/CURRENT-DORTECH%20SYSTEMS-3C4858?style=for-the-badge&labelColor=202020&logoColor=white" alt="Dortech Systems"/>
   <br>
   <h3 style="margin-top: 5px; margin-bottom: 5px;">Software Developer</h3>
   <p>Architecting scalable solutions using <b>Vue.js ecosystem</b> & <b>PHP</b> in an enterprise environment.</p>
@@ -136,7 +135,7 @@ Currently serving as **Software Developer at Dortech Systems** while maintaining
   <br><br>
 
   <!-- 2. MDEL -->
-  <img src="https://img.shields.io/badge/PREVIOUS-MDEL%20DESENVOLVIMENTO-222222?style=for-the-badge&labelColor=333333" alt="MDEL"/>
+  <img src="https://img.shields.io/badge/PREVIOUS-MDEL%20DESENVOLVIMENTO-3C4858?style=for-the-badge&labelColor=202020" alt="MDEL"/>
   <br>
   <h3 style="margin-top: 5px; margin-bottom: 5px;">Web Developer</h3>
   <p>React.js development focused on modern <b>DevOps practices</b> (CI/CD) reducing deployment times.</p>
@@ -146,7 +145,7 @@ Currently serving as **Software Developer at Dortech Systems** while maintaining
   <br><br>
 
   <!-- 3. FREELANCE -->
-  <img src="https://img.shields.io/badge/2%2B%20YEARS-FREELANCE-333333?style=for-the-badge&labelColor=444444" alt="Freelance"/>
+  <img src="https://img.shields.io/badge/2%2B%20YEARS-FREELANCE-3C4858?style=for-the-badge&labelColor=202020" alt="Freelance"/>
   <br>
   <h3 style="margin-top: 5px; margin-bottom: 5px;">Full-Stack Developer</h3>
   <p>Delivered high-conversion systems via 99Freelas & Workana with <b>100% satisfaction</b>.</p>
@@ -158,16 +157,12 @@ Currently serving as **Software Developer at Dortech Systems** while maintaining
 
 <h2 align="center">〈 Metrics 〉</h2>
 
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=lIlIlIIIlll&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lIlIlIIIlll&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages"/>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lIlIlIIIlll&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="180" alt="Streak Stats"/>
-</div>
 
 <br>
 
@@ -179,6 +174,5 @@ Currently serving as **Software Developer at Dortech Systems** while maintaining
   <br>
   <sub>— Leonardo da Vinci</sub>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C4858&height=100&section=footer" alt="Footer"/>
 </div>
-```
